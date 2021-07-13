@@ -5,10 +5,12 @@
 [![linkedIn](https://img.shields.io/static/v1?label=Connect%20on&message=LinkedIn&color=0A66C2&logo=linkedin&style=for-the-badge)][linkedin]
 
 
-## I'm an IT Professional!!
+## I'm an IT Professional
+with a passion for helping people work smarter through better use of technology
+___
+
 - 🏅 2021 Goals: Release more projects on GitHub  <img alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.6.0/icons/github.svg" /> and write more blog posts <img alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.6.0/icons/wordpress.svg" />
 - 📚 I like to learn new things and experiment with coding projects
-- 🏠 HomeBridge <img  alt="HomeBridge" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.6.0/icons/homebridge.svg" />, Tasmota <img  alt="Tasmota" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.6.0/icons/tasmota.svg" /> and Node-RED <img  alt="Node-RED" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.6.0/icons/nodered.svg" /> Smart Home
 - 🚗 I drive an electric vehicle and have a keen interest in reducing my carbon footprint 🌱 and my single use plastics. ♻️
 
 
@@ -33,6 +35,7 @@
 <img align="left" alt="HomeBridge" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.6.0/icons/homebridge.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.6.0/icons/html5.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.6.0/icons/css3.svg" />
+<img  alt="Tasmota" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.6.0/icons/tasmota.svg" />
 
 <br />
 
