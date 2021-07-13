@@ -9,7 +9,7 @@
 with a passion for helping people work smarter through better use of technology
 ___
 
-- 🏅 2021 Goals: Release more projects on GitHub  <img alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.6.0/icons/github.svg" /> and write more blog posts <img alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.6.0/icons/wordpress.svg" />
+- 🏅 2021 Goals: Release more projects on GitHub  <img alt="GitHub" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.6.0/icons/github.svg" /> and write more blog posts <img alt="WordPress" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.6.0/icons/wordpress.svg" />
 - 📚 I like to learn new things and experiment with coding projects
 - 🚗 I drive an electric vehicle and have a keen interest in reducing my carbon footprint 🌱 and my single use plastics. ♻️
 
