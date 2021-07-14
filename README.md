@@ -1,8 +1,8 @@
-### Hi there, I'm Tom 👋
+### Hi, I'm @tomcollis 👋
 <br />
 
 [![website](https://img.shields.io/website?label=tcollis.co.uk&style=for-the-badge&url=https%3A%2F%2Ftcollis.co.uk)][website]
-[![linkedIn](https://img.shields.io/static/v1?label=Connect%20on&message=LinkedIn&color=0A66C2&logo=linkedin&style=for-the-badge)][linkedin]
+[![LinkedIn](https://img.shields.io/static/v1?label=Connect%20on&message=LinkedIn&color=0A66C2&logo=linkedin&style=for-the-badge)][LinkedIn]
 
 
 ## I'm an IT Professional
@@ -10,10 +10,10 @@ with a passion for helping people work smarter through better use of technology.
 ___
 
 - 🏅 2021 Goals: Release more projects on GitHub  <img alt="GitHub" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.6.0/icons/github.svg" /> and write more blog posts <img alt="WordPress" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.6.0/icons/wordpress.svg" />
-- 📚 I like to learn new things and experiment with coding projects
+- 📚 I’m constantly learning new things and experiment with coding projects
+- 👀 I’m interested automation and improving efficiency through better use of technology.
 - 🚗 I drive an electric vehicle and have a keen interest in reducing my carbon footprint 🌱 and my single use plastics. ♻️
-
-
+- 📫 You can reach me via [LinkedIn] or my [website].
 
 ### Languages and Tools:
 
@@ -43,4 +43,4 @@ ___
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://tcollis.co.uk
-[linkedin]: https://www.linkedin.com/in/tomcollis/
+[LinkedIn]: https://www.linkedin.com/in/tomcollis/
