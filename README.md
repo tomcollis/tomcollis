@@ -12,7 +12,7 @@ ___
 - 📚 I’m constantly learning new things and experiment with coding projects
 - 👀 I’m interested automation and improving efficiency through better use of technology.
 - 🚗 I drive an electric vehicle and have a keen interest in reducing my carbon footprint 🌱 and my single use plastics. ♻️
-- 📫 You can reach me via [LinkedIn] or my [website].
+- 📫 You can reach me via [LinkedIn], my [website] or [Telegram].
 
 ### Languages and Tools:
 
