@@ -9,8 +9,8 @@ with a passion for helping people work smarter through better use of technology.
 ___
 
 - 🏅 2021 Goals: Release more projects on GitHub  <img alt="GitHub" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.6.0/icons/github.svg" /> and write more blog posts <img alt="WordPress" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.6.0/icons/wordpress.svg" />
-- 📚 I’m constantly learning new things and experiment with coding projects
-- 👀 I’m interested automation and improving efficiency through better use of technology.
+- 📚 I’m constantly learning new things, tinkering and experimenting with coding projects and new software.
+- 👀 I’m interested in helping people with improving efficiencies through automation and the better use of technology.
 - 🚗 I drive an electric vehicle and have a keen interest in reducing my carbon footprint 🌱 and my single use plastics. ♻️
 - 📫 You can reach me via [LinkedIn], my [website] or [Telegram].
 
