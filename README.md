@@ -3,8 +3,7 @@
 
 [![website](https://img.shields.io/website?label=tcollis.co.uk&style=for-the-badge&url=https%3A%2F%2Ftcollis.co.uk)][website]
 [![LinkedIn](https://img.shields.io/static/v1?label=Connect%20on&message=LinkedIn&color=0A66C2&logo=linkedin&style=for-the-badge)][LinkedIn]
-
-
+[![Telegram](https://img.shields.io/static/v1?label=Message%20on&message=Telegram&color=27A7E7&logo=telegram&style=for-the-badge)][Telegram]
 ## I'm an IT Professional
 with a passion for helping people work smarter through better use of technology.
 ___
@@ -44,3 +43,4 @@ ___
 
 [website]: https://tcollis.co.uk
 [LinkedIn]: https://www.linkedin.com/in/tomcollis/
+[Telegram]: https://t.me/tomcollis
