@@ -7,9 +7,16 @@
 ## I'm an IT Professional
 with a passion for helping people work smarter through better use of technology.
 ___
+🏅 2022 Goals
+- Be more agile
+- simplify my personal projects to make maintenance and up-keep easier
+- and write more blog posts <img alt="WordPress" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.6.0/icons/wordpress.svg" />
+___
+🥇 2021 Successes
 
-- 🥇 2021 Successes: Released more projects on GitHub <img alt="GitHub" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.6.0/icons/github.svg" /> , particularly [PPHook] <img alt="PPHook" width="20px" src="https://raw.githubusercontent.com/tomcollis/PPHook/main/img/PPHook-Logo_SVG.svg" /> and a web extension for private business use <img alt="Microsoft Edge" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.6.0/icons/microsoftedge.svg" /> <img alt="Google Chrome" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.6.0/icons/googlechrome.svg" /> . 
-- 🏅 2022 Goals: Be more agile, simplify my personal projects to make maintenance easier and write more blog posts <img alt="WordPress" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.6.0/icons/wordpress.svg" />
+Released more projects on GitHub <img alt="GitHub" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.6.0/icons/github.svg" /><br />Primarily [PPHook] <img alt="PPHook" width="20px" src="https://raw.githubusercontent.com/tomcollis/PPHook/main/img/PPHook-Logo_SVG.svg" /> a simple, easy to use webhook relay server in NodeJS, created to run easily on Deta or Deta Space,<br />and a web extension for private business use <img alt="Microsoft Edge" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.6.0/icons/microsoftedge.svg" /> <img alt="Google Chrome" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.6.0/icons/googlechrome.svg" /> for auto-filling forms and submitting IT tickets (so far, WIP) . 
+___
+
 - 📚 I’m constantly learning new things, tinkering and experimenting with coding projects and new software.
 - 👀 I’m interested in helping people improve efficiencies through automation and the better use of technology.
 - 🚗 I drive an electric vehicle and have a keen interest in reducing my carbon footprint 🌱 and my single use plastics. ♻️
