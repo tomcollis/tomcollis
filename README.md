@@ -7,7 +7,7 @@
 ## I'm an IT Professional
 with a passion for helping people work smarter through better use of technology.
 ___
-🏅 2022 Goals
+🏅 2023 Goals
 - Be more agile
 - simplify my personal projects to make maintenance and up-keep easier
 - and write more blog posts <img alt="WordPress" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.6.0/icons/wordpress.svg" />
