@@ -14,14 +14,7 @@ with a passion for helping people work smarter through better use of technology.
 - 🚗 I drive an electric vehicle and have a keen interest in reducing my carbon footprint 🌱 and my single use plastics. ♻️
 - 📫 You can reach me via [LinkedIn], my [website] or [Telegram].
 
-## 🏅 2023 Goals
-
-- After starting my ServiceNow journey in 2022, I want to grow to and maintain these skills.
-- Focus on simplifying personal projects to make maintenance and up-keep easier
-- Write more blog posts <img title="WordPress" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/wordpress.svg" />
-- Released more projects on GitHub <img title="GitHub" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/github.svg" />
-
-## 🏅 2022-2023 Successes
+## 🏅 Recent Successes
 
 - I won an award [#OwnIt - LinkedIn](https://www.linkedin.com/posts/tomcollis_ownit-activity-7047653708158922753-Ygy-?utm_source=share&utm_medium=member_desktop)
 - Release my app [HookStack] on [Deta Space](https://deta.space/discovery/@tmhy-tomuky2k/hookstack)
@@ -40,7 +33,6 @@ with a passion for helping people work smarter through better use of technology.
 <img align="left" title="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/mysql.svg" />
 <img align="left" title="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/git.svg" />
 <img align="left" title="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/github.svg" />
-<img align="left" title="AutoHotkey" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/autohotkey.svg" />
 <img align="left" title="PowerShell" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/powershell.svg" />
 <img align="left" title="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/javascript.svg" />
 <img align="left" title="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/nodedotjs.svg" />
