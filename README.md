@@ -12,10 +12,11 @@ with a passion for helping people work smarter through better use of technology.
 - 📚 I’m constantly learning new things, tinkering and experimenting with coding projects and new software.
 - 👀 I’m interested in helping people work smarter and be more efficient through automation and the better use of technology.
 - 🚗 I drive an electric vehicle and have a keen interest in reducing my carbon footprint 🌱 and my single use plastics. ♻️
-- 📫 You can reach me via [LinkedIn], my [website] or [Telegram].
+- 📫 You can reach me via [LinkedIn], my [website] or [Linktree].
 
 ## 🏅 Recent Successes
 
+- I won another award #FindAWayOrMakeOne 🥳
 - I won an award [#OwnIt - LinkedIn](https://www.linkedin.com/posts/tomcollis_ownit-activity-7047653708158922753-Ygy-?utm_source=share&utm_medium=member_desktop)
 - Release my app [HookStack] on [Deta Space](https://deta.space/discovery/@tmhy-tomuky2k/hookstack)
 - Chrome Extension for private business use <img title="Microsoft Edge" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/microsoftedge.svg" /> <img title="Google Chrome" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/googlechrome.svg" /> for auto-filling forms and submitting IT tickets.
