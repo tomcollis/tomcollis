@@ -2,51 +2,85 @@
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-2867B2?style=for-the-badge&logo=linkedin)][LinkedIn]
 [![Linktree](https://img.shields.io/badge/View%20Links-Linktree-43E55E?style=for-the-badge&logo=linktree)][Linktree]
-[![Telegram](https://img.shields.io/badge/Message%20on-Telegram-229ED9?style=for-the-badge&logo=telegram)][Telegram]
 [![website](https://img.shields.io/website?url=https%3A%2F%2Ftcollis.co.uk&style=for-the-badge&label=tcollis.co.uk)][website]
 
-## I'm an IT Professional
+---
 
-with a passion for helping people work smarter through better use of technology.
+## 🚀 IT Professional • Automation Specialist • Problem Solver
 
-- 📚 I’m constantly learning new things, tinkering and experimenting with coding projects and new software.
-- 👀 I’m interested in helping people work smarter and be more efficient through automation and the better use of technology.
-- 🚗 I drive an electric vehicle and have a keen interest in reducing my carbon footprint 🌱 and my single use plastics. ♻️
-- 📫 You can reach me via [LinkedIn], my [website] or [Linktree].
+I focus on improving the way people work through automation, modern workplace tooling, and thoughtful system design. My work spans IT operations, governance, cloud services, and building small tools that remove friction from everyday processes.
 
-## 🏅 Recent Successes
+I’m particularly interested in:
+- ⚙️ Automation and workflow optimisation  
+- 🧠 Learning new technologies and applying them pragmatically  
+- 🌱 Sustainability, EVs, and reducing waste  
+- 🏗️ Turning complex processes into simple, reliable systems  
 
-- I won another award #FindAWayOrMakeOne 🥳
-- I won an award [#OwnIt - LinkedIn](https://www.linkedin.com/posts/tomcollis_ownit-activity-7047653708158922753-Ygy-?utm_source=share&utm_medium=member_desktop)
-- Release my app [HookStack] on [Deta Space](https://deta.space/discovery/@tmhy-tomuky2k/hookstack)
-- Chrome Extension for private business use <img title="Microsoft Edge" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/microsoftedge.svg" /> <img title="Google Chrome" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/googlechrome.svg" /> for auto-filling forms and submitting IT tickets.
+---
 
-## Languages and Tools
+## 🏅 Recent Highlights
 
-<img align="left" title="1Password" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/1password.svg" />
-<img align="left" title="VS Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/visualstudiocode.svg" />
-<img align="left" title="Postman" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/postman.svg" />
-<img align="left" title="PowerBI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/powerbi.svg" />
-<img align="left" title="Azure" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/microsoftazure.svg" />
-<img align="left" title="SharePoint" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/microsoftsharepoint.svg" />
-<img align="left" title="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/docker.svg" />
-<img align="left" title="SQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/microsoftsqlserver.svg" />
-<img align="left" title="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/mysql.svg" />
-<img align="left" title="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/git.svg" />
-<img align="left" title="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/github.svg" />
-<img align="left" title="PowerShell" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/powershell.svg" />
-<img align="left" title="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/javascript.svg" />
-<img align="left" title="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/nodedotjs.svg" />
-<img align="left" title="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/html5.svg" />
-<img align="left" title="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/css3.svg" />
-<img align="left" title="HomeBridge" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/homebridge.svg" />
-<img align="left" title="Tasmota" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/tasmota.svg" />
+- 🥳 Awarded **#FindAWayOrMakeOne**  
+- 🏆 Recipient of **#OwnIt**  
+- 🚀 Released **[HookStack]**, a lightweight webhook utility  
+- 🧩 Developed a private Chrome/Edge extension for automated form‑filling and IT ticket submission  
+- ⚡ Delivered automation and process improvements across Azure, Microsoft 365, and internal platforms  
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
 
-[website]: https://tcollis.co.uk
-[LinkedIn]: https://www.linkedin.com/in/tomcollis/
-[Telegram]: https://t.me/tomcollis
+## 🧰 Languages and Tools
+
+### Development & Scripting
+![Dev Tools](https://skillicons.dev/icons?i=js,nodejs,powershell,html,css,md)
+
+### Platforms & Operating Systems
+![Platforms](https://skillicons.dev/icons?i=windows,apple,ubuntu,debian,raspberrypi)
+
+### Cloud, DevOps & Infrastructure
+![Cloud Tools](https://skillicons.dev/icons?i=azure,docker,cloudflare,git,github,postman,vscode)
+
+### Data & Reporting
+![Data Tools](https://skillicons.dev/icons?i=sqlite,mysql,grafana)
+
+---
+
+## 🏡 Home Automation, IoT & Personal Tools
+
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)
+![Homebridge](https://img.shields.io/badge/Homebridge-491F59?style=for-the-badge&logo=homebridge&logoColor=white)
+![Tasmota](https://img.shields.io/badge/Tasmota-1FA3EC?style=for-the-badge&logo=tasmota&logoColor=white)
+![Zigbee](https://img.shields.io/badge/Zigbee-EB0443?style=for-the-badge&logo=zigbee&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+
+![Plex](https://img.shields.io/badge/Plex-E5A00D?style=for-the-badge&logo=plex&logoColor=white)
+![Mealie](https://img.shields.io/badge/Mealie-4CAF50?style=for-the-badge&logo=mealie&logoColor=white)
+
+![Octopus Energy](https://img.shields.io/badge/Octopus%20Energy-FF47A3?style=for-the-badge&logo=octopusdeploy&logoColor=white)
+![Shelly](https://img.shields.io/badge/Shelly-00A3E0?style=for-the-badge&logo=shelly&logoColor=white)
+
+![Synology](https://img.shields.io/badge/Synology-0C0C0C?style=for-the-badge&logo=synology&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
+
+![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+
+![1Password](https://img.shields.io/badge/1Password-1A76D1?style=for-the-badge&logo=1password&logoColor=white)
+![Joplin](https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=joplin&logoColor=white)
+
+![Steam Deck](https://img.shields.io/badge/Steam%20Deck-1E1E1E?style=for-the-badge&logo=steamdeck&logoColor=white)
+![Bambu Lab](https://img.shields.io/badge/Bambu%20Lab-000000?style=for-the-badge&logo=bambulab&logoColor=white)
+
+---
+
+## 📬 Connect With Me
+
+- 🌐 **Website:** [tcollis.co.uk][website]  
+- 🔗 **Linktree:** [linktr.ee/tomcollis][Linktree]  
+- 💼 **LinkedIn:** [linkedin.com/in/tomcollis][LinkedIn]
+
+---
+
+[website]: https://tcollis.co.uk  
+[LinkedIn]: https://www.linkedin.com/in/tomcollis/  
+[Linktree]: https://linktr.ee/tomcollis  
 [HookStack]: https://github.com/tomcollis/HookStack
-[Linktree]: https://linktr.ee/tomcollis
