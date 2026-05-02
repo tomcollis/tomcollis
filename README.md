@@ -42,16 +42,16 @@ I’m particularly interested in:
 ## 🧰 Languages and Tools
 
 ### Development & Scripting
-![Dev Tools](https://skillicons.dev/icons?i=js,nodejs,powershell,html,css,md)
+[![Dev Tools](https://skillicons.dev/icons?i=js,nodejs,powershell,html,css,md)](https://skillicons.dev)
 
 ### Platforms & Operating Systems
-![Platforms](https://skillicons.dev/icons?i=windows,apple,ubuntu,debian,raspberrypi)
+[![Platforms](https://skillicons.dev/icons?i=windows,apple,ubuntu,debian,raspberrypi)](https://skillicons.dev)
 
 ### Cloud, DevOps & Infrastructure
-![Cloud Tools](https://skillicons.dev/icons?i=azure,docker,cloudflare,git,github,postman,vscode)
+[![Cloud Tools](https://skillicons.dev/icons?i=azure,docker,cloudflare,git,github,postman,vscode)](https://skillicons.dev)
 
 ### Data & Reporting
-![Data Tools](https://skillicons.dev/icons?i=sqlite,mysql,grafana)
+[![Data Tools](https://skillicons.dev/icons?i=sqlite,mysql,grafana)](https://skillicons.dev)
 
 ---
 
