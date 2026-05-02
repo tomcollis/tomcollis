@@ -6,25 +6,33 @@
 
 ---
 
-## 🚀 IT Professional • Automation Specialist • Problem Solver
+## 🚀 IT Professional • Automation Enthusiast • Problem Solver
 
-I focus on improving the way people work through automation, modern workplace tooling, and thoughtful system design. My work spans IT operations, governance, cloud services, and building small tools that remove friction from everyday processes.
+I am passionate on improving the way people work through automation, modern workplace tooling, and thoughtful system design.
+My work spans IT operations, infrastructure, governance, cloud services, and I enjoy building small tools that remove friction from everyday processes.
 
 I’m particularly interested in:
-- ⚙️ Automation and workflow optimisation  
-- 🧠 Learning new technologies and applying them pragmatically  
-- 🌱 Sustainability, EVs, and reducing waste  
-- 🏗️ Turning complex processes into simple, reliable systems  
+- ⚙️ Automation and workflow optimisation
+- 🧠 Learning new technologies and applying them pragmatically
+- 🌱 Sustainability, EVs, and reducing waste
+- 🏗️ Turning complex processes into simple, reliable systems
 
 ---
 
 ## 🏅 Recent Highlights
 
-- 🥳 Awarded **#FindAWayOrMakeOne**  
-- 🏆 Recipient of **#OwnIt**  
-- 🚀 Released **[HookStack]**, a lightweight webhook utility  
-- 🧩 Developed a private Chrome/Edge extension for automated form‑filling and IT ticket submission  
-- ⚡ Delivered automation and process improvements across Azure, Microsoft 365, and internal platforms  
+- 2026
+  - 📱 Launched **[SlimTracker]** a customisable mobile PWA for tracking habits, activities (or anything).
+- 2025
+  - 🥳 Awarded Employee Award for **#FindAWayOrMakeOne** at **[FlyForm]**
+  - 🔁 Released **[HookStack]**, a lightweight webhook utility via deta.space
+  - 🚀 Released **[AgendaControl]**, a lightweight and customisable meeting timer
+- 2024
+  - 🏆 Awarded Employee Award for **#OwnIt** at **[FlyForm]** (2024)
+- 2023
+  - 🥇 Awarded Employee Award for **#OwnIt** at **[FlyForm]** (2023)
+- 2022 (& before)
+  - 🧩 Developed a private Chrome/Edge extension for automated form‑filling, process improvements and IT ticket submission
 
 ---
 
@@ -60,6 +68,8 @@ I’m particularly interested in:
 
 ![Synology](https://img.shields.io/badge/Synology-0C0C0C?style=for-the-badge&logo=synology&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node&hyphen;RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
 
 ![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
@@ -84,3 +94,6 @@ I’m particularly interested in:
 [LinkedIn]: https://www.linkedin.com/in/tomcollis/  
 [Linktree]: https://linktr.ee/tomcollis  
 [HookStack]: https://github.com/tomcollis/HookStack
+[AgendaControl]: https://github.com/tomcollis/AgendaControl
+[FlyForm]: https://github.com/flyform
+[SlimTracker]: https://st.tcollis.co.uk/
