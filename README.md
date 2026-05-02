@@ -19,20 +19,23 @@ I’m particularly interested in:
 
 ---
 
-## 🏅 Recent Highlights
+## ✨ Recent Highlights
 
 - 2026
   - 📱 Launched **[SlimTracker]** a customisable mobile PWA for tracking habits, activities (or anything).
 - 2025
-  - 🥳 Awarded Employee Award for **#FindAWayOrMakeOne** at **[FlyForm]**
-  - 🔁 Released **[HookStack]**, a lightweight webhook utility via deta.space
-  - 🚀 Released **[AgendaControl]**, a lightweight and customisable meeting timer
+  - 🥳 Awarded Employee Award for **#FindAWayOrMakeOne** at **[FlyForm]**.
+  - 🔁 Released **[HookStack]**, a lightweight webhook utility via deta.space.
+  - 🚀 Released **[AgendaControl]**, a lightweight and customisable meeting timer.
 - 2024
-  - 🏆 Awarded Employee Award for **#OwnIt** at **[FlyForm]** (2024)
+  - 🏆 Awarded Employee Award for **#OwnIt** at **[FlyForm]**.
 - 2023
-  - 🥇 Awarded Employee Award for **#OwnIt** at **[FlyForm]** (2023)
-- 2022 (& before)
-  - 🧩 Developed a private Chrome/Edge extension for automated form‑filling, process improvements and IT ticket submission
+  - 🥇 Awarded Employee Award for **#OwnIt** at **[FlyForm]**.
+- 2022
+  - Joined **[FlyForm]** as IT Manager, after ~10 years at **[Limbco]**.
+- pre-2022
+  - 🛠️ Started 3D Printing including my own designs using SolidWorks, Autodesk Fusion, FreeCAD & TinkerCAD.
+  - 🧩 Developed a private Chrome/Edge extension for automated form‑filling, process improvements and IT ticket submission.
 
 ---
 
@@ -61,7 +64,7 @@ I’m particularly interested in:
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 
 ![Plex](https://img.shields.io/badge/Plex-E5A00D?style=for-the-badge&logo=plex&logoColor=white)
-![Mealie](https://img.shields.io/badge/Mealie-4CAF50?style=for-the-badge&logo=mealie&logoColor=white)
+![Mealie](https://img.shields.io/badge/Mealie-E58325?style=for-the-badge&logo=mealie&logoColor=white)
 
 ![Octopus Energy](https://img.shields.io/badge/Octopus%20Energy-FF47A3?style=for-the-badge&logo=octopusdeploy&logoColor=white)
 ![Shelly](https://img.shields.io/badge/Shelly-00A3E0?style=for-the-badge&logo=shelly&logoColor=white)
@@ -74,11 +77,11 @@ I’m particularly interested in:
 ![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
-![1Password](https://img.shields.io/badge/1Password-1A76D1?style=for-the-badge&logo=1password&logoColor=white)
+![1Password](https://img.shields.io/badge/1Password-3B66BC?style=for-the-badge&logo=1password&logoColor=white)
 ![Joplin](https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=joplin&logoColor=white)
 
-![Steam Deck](https://img.shields.io/badge/Steam%20Deck-1E1E1E?style=for-the-badge&logo=steamdeck&logoColor=white)
-![Bambu Lab](https://img.shields.io/badge/Bambu%20Lab-000000?style=for-the-badge&logo=bambulab&logoColor=white)
+![Steam Deck](https://img.shields.io/badge/Steam%20Deck-1A9FFF?style=for-the-badge&logo=steamdeck&logoColor=white)
+![Bambu Lab](https://img.shields.io/badge/Bambu%20Lab-00AE42?style=for-the-badge&logo=bambulab&logoColor=white)
 
 ---
 
@@ -96,4 +99,5 @@ I’m particularly interested in:
 [HookStack]: https://github.com/tomcollis/HookStack
 [AgendaControl]: https://github.com/tomcollis/AgendaControl
 [FlyForm]: https://github.com/flyform
+[Limbco]: https://limbco.uk
 [SlimTracker]: https://st.tcollis.co.uk/
